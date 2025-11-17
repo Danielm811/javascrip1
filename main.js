@@ -1,6 +1,6 @@
 let operation = " ";
 let fondos = 1000000;
-let ab = 10;
+//let ab = 10;
 
 
 
